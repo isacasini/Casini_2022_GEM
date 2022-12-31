@@ -1,6 +1,8 @@
 # Casini_2022_GEM
 Supplementary scripts from:
-Casini, I., et al. "An integrated systems-biology platform for power-to-gas technology" (Submitted)
+Casini, I., McCubbin, T., Esquivel-Elizondo, S., Luque, G.G., Evseeva, D., Fink, C., Beblawy, S., Youngblut, N.D., Aristilde, L., Huson, D., Drager, A., Ley, R., Marcellin, E., Angenent, L.T., Molitor, B. 2022. An integrated systems-biology platform for power-to-gas technology. bioRxiv, 2022.12.30.522236.
+
+https://www.biorxiv.org/content/10.1101/2022.12.30.522236v1
 
 Electronic Supplementary Data Set 6
 

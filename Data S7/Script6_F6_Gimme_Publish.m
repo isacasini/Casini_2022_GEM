@@ -59,9 +59,9 @@ genedata_name = "F:/Experimental_Work/Transcriptomics/F6_Exp/Updated_salmon_MM/F
 genedata = importdata(genedata_name);
 genedata2 = genedata; % makes copy to edit
 % genedata will end up with 3 structures
-% data: [1×523 double]
-% textdata: {1×523 cell}
-%colheaders: {1×523 cell}
+% data: [1Ã—523 double]
+% textdata: {1Ã—523 cell}
+%colheaders: {1Ã—523 cell}
 
 % Change the structure to have the row with genes called "gene"
 genedata2 = renameStructField(genedata2,'textdata','gene');
@@ -80,9 +80,9 @@ protdata_name = "F:/Experimental_Work/Proteomics/F6_2_results/Proteome_Discovere
 protdata = importdata(protdata_name);
 protdata2 = protdata; % makes copy to edit
 % genedata will end up with 3 structures
-% data: [1×523 double]
-% textdata: {1×523 cell}
-%colheaders: {1×523 cell}
+% data: [1Ã—523 double]
+% textdata: {1Ã—523 cell}
+%colheaders: {1Ã—523 cell}
 
 % Change the structure to have the row with genes called "gene"
 protdata2 = renameStructField(protdata2,'textdata','gene');
